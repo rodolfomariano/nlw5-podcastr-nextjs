@@ -2,6 +2,10 @@
 
 Project carried out during the Next Level Week (NLW) event, where the company Rocketseat offers study trails, so that the Dvs reach the next level in their careers.
 
+####Work with NextJs, TypeScript and Json Server
+
+---
+
 <p align="center">
   <img width="90%" src="src/assets/to_readme/podcastr.png">
 </p>
