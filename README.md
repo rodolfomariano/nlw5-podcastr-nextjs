@@ -30,7 +30,7 @@ Second, run json server:
 yarn server
 ```
 
-First, run the development server:
+third, run the development server:
 
 ```bash
 npm run dev
